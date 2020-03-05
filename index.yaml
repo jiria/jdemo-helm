@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  edge-kubernetes:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-03-04T16:05:22.3313232-08:00"
+    description: A Helm chart for running Azure IoT Edge on Kubernetes
+    digest: 8d613703caca2fb1153895d699d37aa5e35bd33721c136d886762b88cd7f2e55
+    name: edge-kubernetes
+    urls:
+    - edge-kubernetes-0.2.3.tgz
+    version: 0.2.3
+  edge-kubernetes-crd:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-03-04T16:05:22.331771-08:00"
+    description: A Helm chart for installing CRD for Azure IoT Edge on Kubernetes
+    digest: 9ca6bbaf114ceae3c9b32eb734bc62d716480330a15a1c26f5a54b0f232ece66
+    name: edge-kubernetes-crd
+    urls:
+    - edge-kubernetes-crd-0.2.3.tgz
+    version: 0.2.3
+generated: "2020-03-04T16:05:22.3301151-08:00"
